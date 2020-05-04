@@ -684,11 +684,11 @@ section
 .exp_time
 {
 	width: 181px;
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 700;
 	color: #8583e1;
 	line-height: 0.75;
-	text-align: right;
+	text-align: left;
 	white-space: nowrap;
 }
 .exp_content
@@ -697,10 +697,10 @@ section
 }
 .exp_title
 {
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: 700;
 	color: #100f3a;
-	line-height: 0.75;
+	line-height: 0.72;
 }
 .exp_subtitle
 {
