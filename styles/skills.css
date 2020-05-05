@@ -631,7 +631,7 @@ section
 .main_title_container
 {
 	width: 100%;
-	height: 183px;
+	height: 100px;
 }
 .main_subtitle
 {
@@ -704,6 +704,14 @@ section
 	width: 100%;
 	height: 4px;
 }
+
+.skill_bars_stable
+{
+	width: 100%;
+	height: 4px;
+}
+
+
 .skill_bars svg
 {
 	position: absolute;
@@ -747,6 +755,15 @@ section
 	color: #100f3a;
 	margin-top: 6px;
 }
+
+.milestone_stable
+{
+	font-size: 36px;
+	font-weight: 800;
+	color: #100f3a;
+	margin-top: 6px;
+}
+
 .milestone_text
 {
 	font-size: 16px;
